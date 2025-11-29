@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DEVA X CRICKET</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0d0f44;
+      color: white;
+      text-align: center;
+    }
+    .header-title {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-top: 40px;
+      color: #ffd000;
+      text-shadow: 0 0 10px rgba(255, 217, 0, 0.7);
+    }
+    .profile-img {
+      width: 240px;
+      height: 240px;
+      border-radius: 50%;
+      margin: 30px auto;
+      display: block;
+      border: 4px solid white;
+      object-fit: cover;
+    }
+    .tag-box {
+      background: linear-gradient(90deg, #eaff00, #ff6b6b);
+      padding: 15px 25px;
+      border-radius: 20px;
+      color: #000;
+      font-size: 1.1rem;
+      font-weight: bold;
+      width: fit-content;
+      margin: 20px auto;
+    }
+    .sub-btn {
+      background: linear-gradient(90deg, #ff3cac, #2b86c5);
+      padding: 15px 30px;
+      border-radius: 30px;
+      color: white;
+      font-size: 1.2rem;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    .disclaimer {
+      background: #ffffff10;
+      padding: 20px;
+      margin: 30px;
+      border-radius: 15px;
+      font-size: 0.9rem;
+      line-height: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="header-title">💰 DEVA X CRICKET 💰</h1>
+
+  <img src="data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAABwAgCdASoIAAgAAkA4JYgCdAD0jwAA/vu4AAD+/wEA" alt="Profile" class="profile-img" />
+
+  <div class="tag-box">32 / 32 Match Pass in IPL 2025 💥 World Record 💥</div>
+
+  <a href="https://t.me/+Q_cl9NkSwfJjZWI9" class="sub-btn">SUBSCRIBE FOR FREE ➜</a>
+
+  <div class="disclaimer">
+    Disclaimer: This channel shares cricket updates, analysis, and general information for fans.
+    It does not promote or guarantee betting or gambling outcomes. Use information responsibly at your discretion.
+  </div>
+</body>
+</html>
